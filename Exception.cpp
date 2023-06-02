@@ -30,6 +30,6 @@ int main()
     }
     catch(...)
     {
-        cout<<"Default Exception"<<endl;
+        cout<<"Default Exception"<<endl; // Exeption is a very important tool for c++
     }
 }
