@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ac_m2",
+            "request": "launch",
+            "mainClass": "ac_m2",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch access_modifier",
+            "request": "launch",
+            "mainClass": "access_modifier",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch converter_main",
+            "request": "launch",
+            "mainClass": "converter_main",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch convrt",
+            "request": "launch",
+            "mainClass": "convrt",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "OOP_343a8736"
+        },
+        {
+            "type": "java",
+            "name": "Launch money_changer",
+            "request": "launch",
+            "mainClass": "money_changer",
+            "projectName": "OOP_343a8736"
+        }
+    ]
+}
